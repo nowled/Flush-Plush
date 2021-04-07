@@ -13,8 +13,9 @@ const Hero = () => {
           comfort zone
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti iure
-          quasi odit tenetur unde officiis repudiandae quod deserunt quia eum?
+          Create a space, that is away from it all. A plush couch, by your
+          design, with our know all. Pricelessness does not have to be
+          expensive, but just -- price less with us.
         </p>
         <Link to='/products' className='btn hero-btn'>
           shop now

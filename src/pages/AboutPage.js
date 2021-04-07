@@ -15,12 +15,13 @@ const AboutPage = () => {
             <div className='underline'></div>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam
-            quaerat, modi doloremque necessitatibus eum dolor nesciunt delectus,
-            voluptate blanditiis, obcaecati beatae ab aut ipsa consequuntur
-            tempora cumque. Ut quo enim vero odio minus nostrum eveniet,
-            doloribus veritatis dolorem unde ipsum, voluptatibus totam.
-            Explicabo, quas libero! Laborum incidunt minima consequatur ratione?
+            You want the best, You want to enjoy life and noone is going to stop
+            you. Flush & Plush company is a place you can rely on, a couch to
+            cry on, friendly cushion to lean on, and in a time of need we have a
+            customer rep you can talk to. You are happy that you no longer have
+            to stand there alone, you can sit here with us. If you drop by for
+            our grand coffee tasting bonanza you will get 50% off any
+            merchandise. Now that is friend you can count on!
           </p>
         </article>
       </Wrapper>
