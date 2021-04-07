@@ -35,7 +35,7 @@ const SingleProductPage = () => {
         history.push('/');
       }, 3000);
     }
-  }, [error]);
+  }, [error, history]);
 
   if (loading) {
     return <Loading />;
